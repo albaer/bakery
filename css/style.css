@@ -1,11 +1,11 @@
 body {
 	font-family: 'Tauri', sans-serif;
 	color: #4E4885;
-	background: #420600 url('img/brushed_metal_background.jpg') repeat;
+	background: #C9D0D1 url('img/brushed_metal_background.jpg') repeat;
 }
 
 a {
-	color: #4FB69F;
+	color: #4E7A46;
 	text-decoration: none;
 }
 
@@ -21,10 +21,10 @@ h2 {
 
 .btn {
 	color: #4E4885;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #4E7A46;
   padding: 15px 30px;
   margin: 40px 0px;
-  border-radius: 25px;
+  border-radius: 10px;
   text-transform: uppercase;
 }
 
@@ -54,7 +54,7 @@ ul.nav li a {
 }
 
 #intro {
-	margin: 50px 0 75px 0;
+	margin: 20px 0 20px 0;
 }
 
 #something-quirky img {
