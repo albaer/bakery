@@ -1,7 +1,7 @@
 body {
-	font-family: 'Nunito', sans-serif;
-	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	font-family: 'Tauri', sans-serif;
+	color: #4E4885;
+	background: #420600 url('img/brushed_metal_background.jpg') repeat;
 }
 
 a {
@@ -16,11 +16,11 @@ h1 {
 
 h2 {
 	font-size: 1.500em;
-	color: #B4C34F;
+	color: #A36A37;
 }
 
 .btn {
-	color: #FAF3BC;
+	color: #4E4885;
 	background: #4FB69F url('img/texture.png') no-repeat right top;
   padding: 15px 30px;
   margin: 40px 0px;
@@ -45,7 +45,8 @@ ul.nav li {
 }
 
 ul.nav li a {
-	color: #FAF3BC;
+	color: #4E4885;
+	font-size: 1.25em;
 }
 
 #logo img {
@@ -57,12 +58,12 @@ ul.nav li a {
 }
 
 #something-quirky img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #4E4885;
 	margin: 0 0 20px 0;
 }
 
 #something-i-love img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #4E4885;
 }
 
 #copyright {
